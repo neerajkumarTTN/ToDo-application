@@ -25,8 +25,7 @@ Datetime module
 
  Functional Requirements
 
-1.User can use command line options to utilise it’s features
-  eg. 
+1.User can use command line options to utilise it’s features 
   >> python todo.py --list
   >> python todo.py --list incomplete
   >> python todo.py --list complete
